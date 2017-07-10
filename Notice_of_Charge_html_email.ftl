@@ -52,7 +52,7 @@ Please follow these instructions to view the charge within ten (10) days of rece
 <li>Enter this EEOC Charge No.: 
 ${vEEOC_Truncated_Char}
 </li>
-<li>Enter this password: 
+<li>Enter this temporary password: 
 ${randomPassword}
 </li>
 </ol>
