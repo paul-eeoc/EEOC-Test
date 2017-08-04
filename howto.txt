@@ -1,3 +1,6 @@
 This is part of feature 3.  This is fun, no?
 
 Testing branch status
+
+
+Branches with the same name
