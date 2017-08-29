@@ -1,0 +1,7 @@
+def envBranch=System.getProperty("Branch")	
+task(hello) {
+	doLast {
+		println "hello $envBranch"
+	}
+}
+
