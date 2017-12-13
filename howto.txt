@@ -4,3 +4,5 @@ Testing branch status
 
 
 Branches with the same name
+
+Testing how renaming works
