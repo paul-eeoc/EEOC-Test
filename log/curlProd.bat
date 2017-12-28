@@ -1,2 +1,2 @@
-call curlpims.bat
-call curlpserver.bat
+call _curlpims.bat
+call _curlpserver.bat
